@@ -1,0 +1,10 @@
+a=int(input('enter a'))
+if a>0:
+    print("positive")
+else:
+    print("negitive")
+Output 1
+enter a
+2
+positive
+
